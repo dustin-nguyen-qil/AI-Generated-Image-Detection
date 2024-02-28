@@ -27,3 +27,7 @@ python train.py
 Refer to `viz.ipynb` to see visualization of:
 - Rich texture image and poor texture image
 - Output after a high pass filter
+
+
+
+
