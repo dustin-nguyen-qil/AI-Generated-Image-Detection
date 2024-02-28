@@ -1,5 +1,7 @@
 # RD-Vision-Takehome-Vuong-Nguyen
 
+PDF file with explanation: `RD-vision-takehome-assessment.pdf`
+
 ## Model Baseline 
 
 ![Model baseline](imgs/model_baseline.png "Baseline")
