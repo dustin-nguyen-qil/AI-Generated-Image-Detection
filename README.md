@@ -1,6 +1,6 @@
-# RD-Vision-Takehome-Vuong-Nguyen
+# Patch-based Texture Contrast for AI-Generated Image Detection
 
-PDF file with explanation: `RD-vision-takehome-assessment.pdf`
+PDF file with explanation: `explanation.pdf`
 
 ## Model Baseline 
 
