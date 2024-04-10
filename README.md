@@ -25,11 +25,5 @@ conda env create -f environment.yaml
 python train.py 
 ```
 
-## Visualization
-Refer to `viz.ipynb` to see visualization of:
-- Rich texture image and poor texture image
-- Output after a high pass filter
-
-
 
 
